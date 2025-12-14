@@ -1,0 +1,7 @@
+{
+  "name": "JK's EduAI Assistant",
+  "description": "An AI-powered teaching assistant that processes lectures into study materials, quizzes, and exam questions while providing personalized student support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
